@@ -10543,7 +10543,7 @@ endpoints:
               "score":"800",
               "datePulled":"2021-04-19"
             },
-            user : {
+            User : {
               "id":"ae058b95-5ed4-454f-9b66-8e33356e19df",
               "created":"2021-07-09T17:21:24.000",
               "modified":"2021-07-09T17:30:19.000",
