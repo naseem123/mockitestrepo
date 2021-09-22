@@ -115,6 +115,16 @@ endpoints:
             "subscriptionType": null,
             "types": [
             {
+              "kind": "SCALAR",
+              "name": "UUID",
+              "description": null,
+              "fields": null,
+              "inputFields": null,
+              "interfaces": null,
+              "enumValues": null,
+              "possibleTypes": null
+            },
+            {
               "kind": "OBJECT",
               "name": "Address",
               "description": null,
@@ -9398,16 +9408,7 @@ endpoints:
               "enumValues": null,
               "possibleTypes": null
             },
-            {
-              "kind": "SCALAR",
-              "name": "UUID",
-              "description": null,
-              "fields": null,
-              "inputFields": null,
-              "interfaces": null,
-              "enumValues": null,
-              "possibleTypes": null
-            },
+
             {
               "kind": "OBJECT",
               "name": "WaitlistResponse",
