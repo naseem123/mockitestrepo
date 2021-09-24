@@ -14976,7 +14976,9 @@ endpoints:
                 "state": "CA",
                 "zipCode": "12312"
               },
-              "propertyOwner": {},
+              "propertyOwner": {
+                "id": "862add92-80bd-494d-a2f6-9a1c7ce80035",
+              },
               "propertyManager": {},
               "housingProvider": {},
               "rentPayments": [{
@@ -15182,7 +15184,9 @@ endpoints:
                 "state": "CA",
                 "zipCode": "12312"
               },
-              "propertyOwner": {},
+              "propertyOwner": {
+                "id": "862add92-80bd-494d-a2f6-9a1c7ce80035",
+              },
               "propertyManager": {},
               "housingProvider": {},
               "rentPayments": [{
