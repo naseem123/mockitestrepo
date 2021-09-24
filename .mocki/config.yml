@@ -13505,9 +13505,6 @@ endpoints:
                   "state": "CA",
                   "zipCode": "12312"
                 },
-                "propertyOwner": null,
-                "propertyManager": null,
-                "housingProvider": null,
                 "rentPayments": [   {
                                       "id": "862add92-80bd-494d-a2f6-9a1c7ce80035",
                                       "cycleStartDate": "2021-01-01",
