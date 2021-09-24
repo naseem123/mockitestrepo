@@ -13499,7 +13499,7 @@ endpoints:
                 "endDate": "2021-10-01",
                 "address": {
                   "id": "adb1c23f-6948-495d-8194-6536bb015e3d",
-                  "googleID": null,
+                  "googleID": "",
                   "lineOne": "Test Lease",
                   "lineTwo": "Unit #0",
                   "city": "Test City",
