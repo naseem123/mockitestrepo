@@ -13680,7 +13680,7 @@ endpoints:
                                         "modified": "2021-08-03T17:42:04.000",
                                         "note": ""
                                       }],
-                "isRenewal": null,
+                "isRenewal": false,
                 "effectiveDate": null,
                 "moveOutDate": null,
                 "closingDate": null,
@@ -15207,7 +15207,7 @@ endpoints:
                                    "modified": "2021-08-03T17:42:04.000",
                                    "note": null
                                  }],
-              "isRenewal": null,
+              "isRenewal": false,
               "effectiveDate": null,
               "moveOutDate": null,
               "closingDate": null,
