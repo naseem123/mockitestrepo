@@ -13686,7 +13686,7 @@ endpoints:
                 "closingDate": null,
                 "created": "2021-07-19T21:54:58.000",
                 "modified": "2021-07-19T21:54:58.000",
-                "note": null,
+                "note": "lease note",
                 "rentDueDate": 0,
                 "dateOfMostRecentPayment": null,
                 "terminationStatus": null
@@ -15213,7 +15213,7 @@ endpoints:
               "closingDate": null,
               "created": "2021-07-19T21:54:58.000",
               "modified": "2021-07-19T21:54:58.000",
-              "note": null,
+              "note": "lease note",
               "rentDueDate": 0,
               "dateOfMostRecentPayment": null,
               "terminationStatus": null
@@ -15497,7 +15497,7 @@ endpoints:
               "closingDate": null,
               "created": "2021-07-09T17:31:47.000",
               "modified": "2021-07-09T17:31:47.000",
-              "note": null,
+              "note": "lease note",
               "rentDueDate": 0,
               "dateOfMostRecentPayment": null,
               "terminationStatus": "WITHDRAWN"
