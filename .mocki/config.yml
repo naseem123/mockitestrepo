@@ -13689,7 +13689,7 @@ endpoints:
                 "note": "lease note",
                 "rentDueDate": 0,
                 "dateOfMostRecentPayment": null,
-                "terminationStatus": null
+                "terminationStatus": "WITHDRAWN"
               },
             user : {
               "id" : "ae058b95-5ed4-454f-9b66-8e33356e19df",
