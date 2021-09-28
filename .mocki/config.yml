@@ -13697,7 +13697,7 @@ endpoints:
                 "modified": "2021-07-19T21:54:58.000",
                 "note": "lease note",
                 "rentDueDate": 0,
-                "dateOfMostRecentPayment": null,
+                "dateOfMostRecentPayment": "2021-01-01",
                 "terminationStatus": "WITHDRAWN"
               },
             user : {
