@@ -13690,9 +13690,9 @@ endpoints:
                                       }
                 ],
                 "isRenewal": false,
-                "effectiveDate":  "2021-01-01",,
-                "moveOutDate":  "2021-01-01",,
-                "closingDate":  "2021-01-01",,
+                "effectiveDate":  "2021-01-01",
+                "moveOutDate":  "2021-01-01",
+                "closingDate":  "2021-01-01",
                 "created": "2021-07-19T21:54:58.000",
                 "modified": "2021-07-19T21:54:58.000",
                 "note": "lease note",
