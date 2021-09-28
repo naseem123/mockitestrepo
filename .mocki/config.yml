@@ -13544,8 +13544,8 @@ endpoints:
                   "addressZipCode": "Zipcode",
                   "addressState": "State"
                 },
-
-                "rentPayments": [   {
+                "rentPayments": [
+                                 {
                                       "id": "862add92-80bd-494d-a2f6-9a1c7ce80035",
                                       "cycleStartDate": "2021-01-01",
                                       "cycleEndDate": "2021-01-31",
@@ -13558,7 +13558,8 @@ endpoints:
                                       "reportingType": "BACK_REPORTING",
                                       "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                       "reportedDate": ""
-                                    }, {
+                                    },
+                                 {
                                       "id": "98d9b23f-0606-4327-86ff-6ab65c7e5827",
                                       "cycleStartDate": "2021-02-01",
                                       "cycleEndDate": "2021-02-28",
@@ -13571,7 +13572,8 @@ endpoints:
                                       "reportingType": "BACK_REPORTING",
                                       "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                       "reportedDate": "null"
-                                    }, {
+                                    },
+                                 {
                                       "id": "03593bb1-d0c7-452e-83e6-90e758cf91e7",
                                       "cycleStartDate": "2021-06-01",
                                       "cycleEndDate": "2021-06-30",
@@ -13584,7 +13586,8 @@ endpoints:
                                       "reportingType": "BACK_REPORTING",
                                       "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                       "reportedDate": null
-                                    }, {
+                                    },
+                                 {
                                       "id": "5d6c8607-e1c5-45de-865b-f4866944f2aa",
                                       "cycleStartDate": "2021-07-01",
                                       "cycleEndDate": "2021-07-31",
@@ -13608,7 +13611,8 @@ endpoints:
                                       "reportingType": "FRONT_REPORTING",
                                       "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                       "reportedDate": ""
-                                    }, {
+                                    },
+                                 {
                                       "id": "c23e3328-8224-49c4-98f8-769dc769bfe9",
                                       "cycleStartDate": "2021-08-01",
                                       "cycleEndDate": "2021-08-31",
@@ -13632,7 +13636,8 @@ endpoints:
                                       "reportingType": "FRONT_REPORTING",
                                       "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                       "reportedDate": ""
-                                    }, {
+                                    },
+                                 {
                                       "id": "df1436e2-4da6-4ba4-b647-09d739c654cd",
                                       "cycleStartDate": "2021-09-01",
                                       "cycleEndDate": "2021-09-30",
@@ -13645,7 +13650,8 @@ endpoints:
                                       "reportingType": "FRONT_REPORTING",
                                       "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                       "reportedDate": ""
-                                    }, {
+                                    },
+                                 {
                                       "id": "0d27a0ad-593f-44ef-93b1-5c1caee63818",
                                       "cycleStartDate": "2021-10-01",
                                       "cycleEndDate": "2021-10-31",
@@ -13659,7 +13665,8 @@ endpoints:
                                       "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                       "reportedDate": ""
                                     }],
-                "leaseDocuments": [   {
+                "leaseDocuments": [
+                                       {
                                         "id": "3432ea28-3bc1-4198-8bbe-13ae8b748cb3",
                                         "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                         "verificationStatus": "PENDING",
@@ -13669,7 +13676,8 @@ endpoints:
                                         "created": "2021-08-27T18:33:07.000",
                                         "modified": "2021-08-27T18:33:07.000",
                                         "note": ""
-                                      }, {
+                                      },
+                                       {
                                         "id": "88697356-87d2-41c5-9af7-c6b3a422bc8b",
                                         "leaseID": "5fb6f421-4647-4317-b597-aea368ddc77e",
                                         "verificationStatus": "PENDING",
@@ -13679,11 +13687,12 @@ endpoints:
                                         "created": "2021-08-03T17:42:04.000",
                                         "modified": "2021-08-03T17:42:04.000",
                                         "note": ""
-                                      }],
+                                      }
+                ],
                 "isRenewal": false,
-                "effectiveDate": null,
-                "moveOutDate": null,
-                "closingDate": null,
+                "effectiveDate":  "2021-01-01",,
+                "moveOutDate":  "2021-01-01",,
+                "closingDate":  "2021-01-01",,
                 "created": "2021-07-19T21:54:58.000",
                 "modified": "2021-07-19T21:54:58.000",
                 "note": "lease note",
