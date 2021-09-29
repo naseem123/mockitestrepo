@@ -18346,10 +18346,7 @@ endpoints:
                  "pendingBalance": null
                }
               ]
-
-
-
-          }
+          },
           Mutation : {
              addRentPaymentDocuments : [{
                                           "id": "cdd75178-c16a-4fea-9954-b6ca7e4b9054",
@@ -18364,6 +18361,7 @@ endpoints:
                                           "readUrl": "https://rent-payment-validation-document-stage.s3.us-west-2.amazonaws.com/rent-payment-document-cdd75178-c16a-4fea-9954-b6ca7e4b9054?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWQRXSB72B3ASYUHI%2F20210929%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210929T160543Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1a4f560bf448cc819b0891d9c3881089a631eeaf9df0d9d0974bbc237b44b11e"
                                         }]
           }
+
         }
 
   - path: /graphql1
