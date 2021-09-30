@@ -18272,7 +18272,21 @@ endpoints:
                               "saved": true
                             }
                           }],
-              "episodes": []
+              "episodes": [{
+                             "id": "fb725922-5014-4ff5-9689-60fff4afe12a",
+                             "name": "Checking vs. Savings Accounts",
+                             "description": "Before deciding which type of bank account you want, let’s talk about the difference between a checking and savings account.",
+                             "episodeNumber": 3,
+                             "imageUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/bank_accounts_player.png",
+                             "audioUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/bank_accounts_part_2_audio.mp4",
+                             "audioTranscript": "As mentioned before, the two main types of bank accounts are checking and savings. Simply put, a checking account is the type of account linked to a debit card and is used for everyday payments, deposits, transfers, and spending money. In contrast, a savings account is a type of interest bearing and restricted account with limitations on withdrawals.  However, both accounts are actually somewhat complex. Checking accounts are both very liquid and easily accessible through checks, debit cards, ATMs, and more. With this type of account you are also able to make numerous daily withdrawals and unlimited deposits into your account. However, being so liquid, checking accounts generally offer little to no interest on the money in your account. Checking accounts can also be opened as a business, student, or joint account, and can be used for both personal and professional matters. On the other hand, savings accounts are rather illiquid and are quite restrictive. However, this account can be a great option when it comes to starting and growing an emergency fund, and saving for short-, mid-, and long-term goals such as vacations, cars, or letting your wealth accumulate when you have no need for it. Further, savings accounts are great in the fact that your funds are still relatively easy to access while they continue to generate income. One thing you must be aware of with savings accounts is that the interest you earn on your funds is considered taxable income.\n\n",
+                             "audioLengthInSeconds": 88,
+                             "progress": {
+                               "audioProgressInSeconds": 0,
+                               "completed": false,
+                               "saved": true
+                             }
+                           }]
             }
           },
           Mutation : {
@@ -18289,6 +18303,4 @@ endpoints:
                                           "readUrl": "https://rent-payment-validation-document-stage.s3.us-west-2.amazonaws.com/rent-payment-document-cdd75178-c16a-4fea-9954-b6ca7e4b9054?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWQRXSB72B3ASYUHI%2F20210929%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210929T160543Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1a4f560bf448cc819b0891d9c3881089a631eeaf9df0d9d0974bbc237b44b11e"
                                         }]
           }
-
-
         }
