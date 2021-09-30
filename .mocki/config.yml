@@ -18288,6 +18288,78 @@ endpoints:
                              }
                            }]
             }
+          ,
+            financialLiteracyContent : {
+              "topics": [{
+                           "id": "91d2d63a-2649-4ffc-93c6-e1ee617a6dea",
+                           "name": "Banking and Loans",
+                           "description": "Learn how to open a bank account, choose the right bank, and the good and bad interest rates.",
+                           "imageUrl": "https://financial-literacy-topics.s3-us-west-2.amazonaws.com/banking_and_loans_icon.png",
+                           "progress": null
+                         }],
+              "lessons": [   {
+                               "id": "3fbd5b39-0321-4de8-91cb-030a9578f673",
+                               "name": "Bank Accounts",
+                               "lessonNumber": 0,
+                               "imageUrl": "https://financial-literacy-lessons.s3-us-west-2.amazonaws.com/bank_accounts.png",
+                               "progress": {
+                                 "episodesCompleted": 1,
+                                 "completed": false,
+                                 "saved": true
+                               }
+                             }, {
+                               "id": "2072e234-6a22-4730-bd48-f5962b2349bf",
+                               "name": "Choosing the Right Bank",
+                               "lessonNumber": 0,
+                               "imageUrl": "https://financial-literacy-lessons.s3-us-west-2.amazonaws.com/choosing_the_right_bank.png",
+                               "progress": null
+                             }],
+              "episodes": [   {
+                                "id": "ec5cfb14-3446-4787-af31-d30a69778409",
+                                "name": "Online vs. Physical Banking",
+                                "description": "Everything has gone virtual, even banks. Online banking has some specific perks that physical banks don’t.",
+                                "episodeNumber": 4,
+                                "imageUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/bank_accounts_player.png",
+                                "audioUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/bank_accounts_part_3_audio.mp4",
+                                "audioTranscript": "Over the past several years, online banking has become increasingly more popular and accessible thanks to the emergence of a number of different online banking institutions. Companies such as Ally Bank and Simple have drawn millions to online banking, by promising lower fees and significantly higher annual interest rates compared to banks with physical locations such as Wells Fargo and U.S. Bank. And like traditional banks, many online-only banks still offer thousands of free to use machines nationwide, contain industry standard security features like encryption and fraud monitoring, are accessible 24/7, and finally are insured up to two hundred and fifty thousand dollars per depositor by the Federal Deposit Insurance Corporation or FDIC. However, online banking also brings considerable disadvantages compared to physical banking choices. For example, online-only banks obviously lack physical branches, and therefore online banking institutions lack in person assistance and an easy way to deposit cash funds. Nevertheless, online-only banking can be a great option for those looking for higher interest rates, lower fees, and who do not need frequent traditional banking services. When considering online-only vs traditional banking institutions, it is essential that you do your research on specific banks as different banks offer different perks, services, terms, and conditions.",
+                                "audioLengthInSeconds": 90,
+                                "progress": {
+                                  "audioProgressInSeconds": 0,
+                                  "completed": true,
+                                  "saved": false
+                                }
+                              }, {
+                                "id": "004ae317-649c-4165-b302-abcc78cf312a",
+                                "name": "Picking a Bank",
+                                "description": "When picking a bank it is important to research and compare the fees, interest rates, and overdraft policies of each institution.",
+                                "episodeNumber": 5,
+                                "imageUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/bank_accounts_player.png",
+                                "audioUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/bank_accounts_part_4_audio.mp4",
+                                "audioTranscript": "One of the hardest parts about opening a bank account is actually deciding which bank you open an account with. Different banks have different benefits and limitations on accounts in terms of minimum deposit, associated rates and fees, number of physical locations and ATMs,  and mobile banking options. It’s also important to consider online-only versus traditional (branch) banking. Generally there are several things you should contemplate such as fees, interest, and overdraft options. First, when choosing a bank try to find the ones with the lowest rates, minimum deposits, and fees associated with opening one or more accounts. Low fees means more money in your account at the end of the day. Second, seek banks that offer the highest interest on your savings. Aim for at least one percent interest for savings accounts and certificate of deposits, or timed deposits in which you promise to keep your money in a bank for a set amount of time, usually several months to up to five years. Like low fees, the higher the interest rate, the more money you’ll see in your pocket at the end of the day. Finally, make sure you seek banks and accounts with the most forgiving overdraft policy. Meaning, make sure your bank has a lenient policy in the event of withdrawing more money than your account contains.",
+                                "audioLengthInSeconds": 74,
+                                "progress": null
+                              }, {
+                                "id": "72e764bc-780e-4923-86f9-f45f0664dde7",
+                                "name": "Online Banking Warnings",
+                                "description": "Online shopping can be dangerous, make sure you are being smart\n",
+                                "episodeNumber": 5,
+                                "imageUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/consumer_awareness_player.png",
+                                "audioUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/consumer_awareness_part_4_audio.mp4",
+                                "audioTranscript": "",
+                                "audioLengthInSeconds": 40,
+                                "progress": null
+                              }, {
+                                "id": "9f0d50e1-146f-4840-a99d-e2348392f9bf",
+                                "name": "Bankruptcy",
+                                "description": "If you end up getting too deep into debt, you may want to consider filing for bankruptcy.",
+                                "episodeNumber": 3,
+                                "imageUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/debt_player.png",
+                                "audioUrl": "https://financial-literacy-episodes.s3-us-west-2.amazonaws.com/debt_part_2_audio.mp4",
+                                "audioTranscript": "",
+                                "audioLengthInSeconds": 48,
+                                "progress": null
+                              }]
+            }
           },
           Mutation : {
              addRentPaymentDocuments : [{
