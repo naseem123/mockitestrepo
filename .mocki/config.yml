@@ -16589,5 +16589,17 @@ endpoints:
                "dateOfMostRecentPayment": null,
                "terminationStatus": "WITHDRAWN"
              }
+          ,
+             addLeaseDocument : {
+               "id": "87ff023c-aad7-4c46-bbb0-ea2f805b8d20",
+               "leaseID": "7d9f885d-27a8-4537-a824-252536eaa01d",
+               "verificationStatus": "SUBMISSION_REQUIRED",
+               "fileName": "lease-document-87ff023c-aad7-4c46-bbb0-ea2f805b8d20",
+               "uploadURL": "https://lease-document-stage.s3.us-west-2.amazonaws.com/lease-document-87ff023c-aad7-4c46-bbb0-ea2f805b8d20?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWQRXSB72B3ASYUHI%2F20211001%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211001T145827Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b73b352de523bbafa701f932f65e54ac5fe76d993b4d1b13db9829290150db96",
+               "readURL": "https://lease-document-stage.s3.us-west-2.amazonaws.com/lease-document-87ff023c-aad7-4c46-bbb0-ea2f805b8d20?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWQRXSB72B3ASYUHI%2F20211001%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211001T145827Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=18a9caf46d8eabe53a429041012d70b67adbfa7f9f71ac8c55fe1c3100d45454",
+               "created": "2021-10-01T14:58:27.000",
+               "modified": "2021-10-01T14:58:27.000",
+               "note": ""
+             }
           }
         }
