@@ -16361,7 +16361,7 @@ endpoints:
                "endDate": "2022-01-01",
                "address": {
                  "id": "3a019549-5510-47ed-aaeb-1cc8bdb12b33",
-                 "googleID": null,
+                 "googleID": "",
                  "lineOne": "East Fort",
                  "lineTwo": "1234",
                  "city": "LA",
