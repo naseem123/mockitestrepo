@@ -16584,7 +16584,7 @@ endpoints:
                "closingDate": null,
                "created": "2021-10-01T14:46:30.000",
                "modified": "2021-10-01T14:46:30.000",
-               "note": null,
+               "note": "",
                "rentDueDate": 0,
                "dateOfMostRecentPayment": null,
                "terminationStatus": null
