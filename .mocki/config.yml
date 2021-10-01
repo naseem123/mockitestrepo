@@ -13623,6 +13623,7 @@ endpoints:
               "userSettings":{
                 "hideMainInsights":false,"require2FA":true,"remindersEmail":false,"remindersMobile":false,"promotionsEmail":false,"promotionsMobile":false,"policyEmail":false,"policyMobile":false},
                 "userDevices":[],"identityEvaluations":[]
+
               },
             bankAccounts:
               [{
@@ -16347,6 +16348,7 @@ endpoints:
                                           "readUrl": "https://rent-payment-validation-document-stage.s3.us-west-2.amazonaws.com/rent-payment-document-cdd75178-c16a-4fea-9954-b6ca7e4b9054?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWQRXSB72B3ASYUHI%2F20210929%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210929T160543Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1a4f560bf448cc819b0891d9c3881089a631eeaf9df0d9d0974bbc237b44b11e"
                                         }],
              saveFinancialLiteracyEpisodeProgress: {"audioProgressInSeconds":0,"completed":false,"saved":true},
-             saveFinancialLiteracyLessonProgress : {"episodesCompleted":2,"completed":false,"saved":true}
+             saveFinancialLiteracyLessonProgress : {"episodesCompleted":2,"completed":false,"saved":true},
+             addAddress : {"id":"6e27a27d-9dbb-46aa-94d4-24c35231d433","googleID":null,"lineOne":"East Fort","lineTwo":"1233","city":"LA","state":"CA","zipCode":"56001"}
           }
         }
