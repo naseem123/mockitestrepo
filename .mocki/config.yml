@@ -16349,6 +16349,6 @@ endpoints:
                                         }],
              saveFinancialLiteracyEpisodeProgress: {"audioProgressInSeconds":0,"completed":false,"saved":true},
              saveFinancialLiteracyLessonProgress : {"episodesCompleted":2,"completed":false,"saved":true},
-             addAddress : {"id":"6e27a27d-9dbb-46aa-94d4-24c35231d433","googleID":null,"lineOne":"East Fort","lineTwo":"1233","city":"LA","state":"CA","zipCode":"56001"}
+             addAddress : {"id":"6e27a27d-9dbb-46aa-94d4-24c35231d433","googleID":"","lineOne":"East Fort","lineTwo":"1233","city":"LA","state":"CA","zipCode":"56001"}
           }
         }
