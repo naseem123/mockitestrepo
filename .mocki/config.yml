@@ -16578,7 +16578,7 @@ endpoints:
                                      "reportedDate": null
                                    }],
                "leaseDocuments": [],
-               "isRenewal": null,
+               "isRenewal": false,
                "effectiveDate": null,
                "moveOutDate": null,
                "closingDate": null,
