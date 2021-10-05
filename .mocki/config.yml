@@ -20295,13 +20295,13 @@ endpoints:
                                      "modified": "2021-10-05T14:47:42.000",
                                      "note": null
                                    }],
-                "isRenewal": null,
+                "isRenewal": false,
                 "effectiveDate": null,
                 "moveOutDate": null,
                 "closingDate": null,
                 "created": "2021-10-05T14:46:50.000",
                 "modified": "2021-10-05T14:46:50.000",
-                "note": null,
+                "note": "",
                 "rentDueDate": 0,
                 "dateOfMostRecentPayment": null,
                 "terminationStatus": "WITHDRAWN"
