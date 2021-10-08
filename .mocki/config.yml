@@ -6,7 +6,7 @@ endpoints:
     method: post
     graphql:
       schema:
-      {
+       {
           "__schema": {
             "queryType": {
               "name": "Query"
