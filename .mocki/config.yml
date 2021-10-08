@@ -2728,7 +2728,7 @@ endpoints:
             }
             ]
           }
-        }
+        },
       mocks:
         {
           Query: {
